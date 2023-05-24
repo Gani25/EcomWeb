@@ -1,0 +1,63 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.container-nav {
+  padding: 0;
+  margin-bottom: 20px;
+}
+.logo {
+  padding: 10px 30px;
+  margin: 0;
+}
+.current {
+  color: #26206b;
+}
+
+.remaining a {
+  color: #ec1e79;
+}
+.nav-item {
+  font-size: 20px;
+  font-weight: 500;
+  padding: 0 15px;
+}
+
+/* Image of card in home page */
+.product {
+  padding-bottom: 50px;
+  color: #26206b;
+}
+.img-prop {
+  margin: auto;
+  width: 45%;
+}
+
+/* Contact page css */
+
+.heading {
+  margin-top: 50px;
+
+  text-align: center;
+  font-size: 50px;
+  color: #26206b;
+}
+
+.map {
+  margin-top: 50px;
+
+  margin-bottom: 50px;
+}
+
+.b {
+  border-color: #26206b;
+  border-width: 2px;
+  color: #26206b;
+}
+.b:hover {
+  background-color: #ec1e79;
+  color: #26206b;
+}
+
+.form-container {
+  color: #26206b;
+}
